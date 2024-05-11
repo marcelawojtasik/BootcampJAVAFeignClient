@@ -10,7 +10,7 @@ public class FlightDTO {
     private String origin;
     private String destiny;
     private String departureTime;
-    private String arrivingTime;
+    private String arrivalTime;
     private double convertedPrice;
     private String frequency;
 

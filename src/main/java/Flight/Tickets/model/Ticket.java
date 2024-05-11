@@ -14,4 +14,6 @@ public class Ticket {
     private String passengerName;
     private String passengerEmail;
     private String passengerPassport;
+
 }
+
